@@ -67,14 +67,14 @@
 
 ## Cognitive Science, Neuroscience & Psychology
 
-1. Cognitive Science
-    - [Brains, Minds, and Machines](https://www.youtube.com/watch?v=_svW8NV1A6k&list=PLUl4u3cNGP61RTZrT3MIAikp2G5EEvTjf)
+1. Psychology
+    - [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology)
 2. Neuroscience
     - [The Human Brain](https://www.youtube.com/watch?v=ba-HMvDn_vU&list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP)
     - [Introduction to Neuroscience](https://www.youtube.com/watch?v=xWcloVll138&list=PLqgZEQsU_8E0l1P9bKR6yKOKPMpoJ_tLR)
     - [Introduction to Neural Computation](https://www.youtube.com/watch?v=PnJEj6TokDA&list=PLUl4u3cNGP61I4aI5T6OaFfRK2gihjiMm)
-3. Psychology
-    - [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology)
+3. Cognitive Science
+    - [Brains, Minds, and Machines](https://www.youtube.com/watch?v=_svW8NV1A6k&list=PLUl4u3cNGP61RTZrT3MIAikp2G5EEvTjf)
 
 ---
 
